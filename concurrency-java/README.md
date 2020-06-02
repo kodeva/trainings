@@ -12,6 +12,10 @@ Description
 Guided tour with a hands-on workshop through various aspects of concurrent programming in Java.
 From a simple invocation of concurrent code until a complex synchronization among multiple concurrent calls.
 
+Training Objectives
+-------------------
+Learn proven practices for invocation and coordination of concurrent tasks in Java.
+
 Topics
 ------
 1. Executing call concurrently:

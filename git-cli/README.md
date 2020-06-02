@@ -12,6 +12,11 @@ Description
 Hands-on workshop with the objective to perform developer's daily work with Git command line.
 From creating a feature branch until rebasing and create a pull request.
 
+Training Objectives
+-------------------
+Learn how to use Git from command line to perform all usual tasks.
+Don't be afraid of Git command line - it's just couple of commands you need to know!
+
 Topics
 ------
 1. Setting up local Git CLI.

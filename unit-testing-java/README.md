@@ -11,6 +11,10 @@ Description
 -----------
 Hands-on workshop with the objective to learn how to write unit-testable code and unit tests in Java.
 
+Training Objectives
+-------------------
+Learn how to write readable unit tests in Java and cover most functionality that is hard to test othewise.
+
 Topics
 ------
 1. Naming.
